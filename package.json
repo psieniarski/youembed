@@ -1,7 +1,7 @@
 {
   "name": "youembed",
-  "version": "0.1.0",
-  "description": "",
+  "version": "0.1.1",
+  "description": "Generate YouTube video's embed URL",
   "main": "index.js",
   "repository": {
     "type": "git",
