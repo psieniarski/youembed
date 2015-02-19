@@ -1,0 +1,24 @@
+{
+  "name": "youembed",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psieniarski/youembed.git"
+  },
+  "keywords": [
+    "youtube",
+    "embed",
+    "generate",
+    "url",
+    "links",
+    "yt"
+  ],
+  "author": "Paweł Sieniarski <paabson@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/psieniarski/youembed/issues"
+  },
+  "homepage": "https://github.com/psieniarski/youembed"
+}
